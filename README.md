@@ -1,6 +1,3 @@
-Object Measurement using YOLOv8 and MiDaS Depth Estimation
-
-Overview
 # Object Measurement using YOLOv8 and MiDaS Depth Estimation
 
 ## Overview
