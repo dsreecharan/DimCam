@@ -17,6 +17,7 @@ Ensure you have Python **3.8+** installed. Install dependencies using:
 
 ```sh
 pip install -r requirements.txt
+```
 
 ### Required Dependencies
 * OpenCV
@@ -32,6 +33,7 @@ Run the object measurement script with:
 
 ```bash
 python object_dimensions.py
+```
 
 ### Controls
 * **Click on the window:** Reset the reference object.
