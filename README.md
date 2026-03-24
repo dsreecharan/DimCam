@@ -32,6 +32,8 @@ It detects objects, estimates their depth, and calculates approximate width, hei
 git clone https://github.com/your-username/object-measurement-yolov8-midas.git
 cd object-measurement-yolov8-midas
 
+---
+
 ## Required Dependencies
 - OpenCV
 - PyTorch
@@ -39,7 +41,7 @@ cd object-measurement-yolov8-midas
 - MiDaS (Depth Estimation)
 - NumPy
 
-## Usage
+---
 
 ### Running the Script
 ```sh
