@@ -18,7 +18,7 @@ Ensure you have Python **3.8+** installed. Install dependencies using:
 ```sh
 pip install -r requirements.txt
 
-**Required Dependencies**
+### Required Dependencies
 * OpenCV
 * PyTorch
 * Ultralytics YOLO
